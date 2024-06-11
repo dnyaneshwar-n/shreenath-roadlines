@@ -1,0 +1,113 @@
+{
+  "configVersion": 1,
+  "timestamp": 1717993550635,
+  "index": "/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/1.6d59508c5571f663.js",
+        "/153.2dc981d5ca047246.js",
+        "/44.875d0439ea474818.js",
+        "/749.187716ccfb0947d6.js",
+        "/907.b27e8a2ab82c51fa.js",
+        "/favicon.ico",
+        "/index.html",
+        "/main.c2b5e7ac60711594.js",
+        "/manifest.webmanifest",
+        "/polyfills.95eb411e6f77033f.js",
+        "/runtime.7f2c59057910d707.js",
+        "/scripts.2a6ef9e38ef9828c.js",
+        "/styles.dec188af2f830caf.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/CenturyGothicRegular.42797046622fea43.ttf",
+        "/assets/fonts/CenturyGothicRegular.ttf",
+        "/assets/icons/icon-128x128.png",
+        "/assets/icons/icon-144x144.png",
+        "/assets/icons/icon-152x152.png",
+        "/assets/icons/icon-192x192.png",
+        "/assets/icons/icon-384x384.png",
+        "/assets/icons/icon-512x512.png",
+        "/assets/icons/icon-72x72.png",
+        "/assets/icons/icon-96x96.png",
+        "/assets/images/logo.jpeg",
+        "/assets/images/whatsapp.png",
+        "/assets/manifest.webmanifest",
+        "/fontawesome-webfont.2b13baa7dd4f54c9.eot",
+        "/fontawesome-webfont.8a7cb27d142e3e19.ttf",
+        "/fontawesome-webfont.cf011583fb81df9f.woff",
+        "/fontawesome-webfont.da909aa098b0ee2d.svg",
+        "/fontawesome-webfont.e9955780856cf8aa.woff2"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "/1.6d59508c5571f663.js": "c5804e8bc19719b1b7b709f084a35e02325ce860",
+    "/153.2dc981d5ca047246.js": "593202662d1cfdc207c8e154416766264b8ce8f4",
+    "/44.875d0439ea474818.js": "7a9a951a00608d4d4b10ab888942f49ad4bc1fd0",
+    "/749.187716ccfb0947d6.js": "c140b3b4697338955e2d859147a475e9bc281cf2",
+    "/907.b27e8a2ab82c51fa.js": "a4f6f8d6c194745284e95a02e690b196c5ec9759",
+    "/CenturyGothicRegular.42797046622fea43.ttf": "8f77dcba946e3703813eee2e91d74b5ee3807b23",
+    "/assets/fonts/CenturyGothicRegular.ttf": "8f77dcba946e3703813eee2e91d74b5ee3807b23",
+    "/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
+    "/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
+    "/assets/icons/icon-152x152.png": "7479a9477815dfd9668d60f8b3b2fba709b91310",
+    "/assets/icons/icon-192x192.png": "1abd80d431a237a853ce38147d8c63752f10933b",
+    "/assets/icons/icon-384x384.png": "329749cd6393768d3131ed6304c136b1ca05f2fd",
+    "/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
+    "/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
+    "/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
+    "/assets/images/logo.jpeg": "a1da868683790a02afa45f2b9b6c3db9cacc3f18",
+    "/assets/images/whatsapp.png": "780181e9820c508b61580a6dea336f9945bf718c",
+    "/assets/manifest.webmanifest": "dd0d268c6f2565eddca6af1cb282053f3aebfeb2",
+    "/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
+    "/fontawesome-webfont.2b13baa7dd4f54c9.eot": "d980c2ce873dc43af460d4d572d441304499f400",
+    "/fontawesome-webfont.8a7cb27d142e3e19.ttf": "13b1eab65a983c7a73bc7997c479d66943f7c6cb",
+    "/fontawesome-webfont.cf011583fb81df9f.woff": "28b782240b3e76db824e12c02754a9731a167527",
+    "/fontawesome-webfont.da909aa098b0ee2d.svg": "98a8aa5cf7d62c2eff5f07ede8d844b874ef06ed",
+    "/fontawesome-webfont.e9955780856cf8aa.woff2": "d6f48cba7d076fb6f2fd6ba993a75b9dc1ecbf0c",
+    "/index.html": "5b242bf44e01fc004820b14941d4abea63529fcc",
+    "/main.c2b5e7ac60711594.js": "8227ff100b400ed235f54a4ffa841ae525f9db03",
+    "/manifest.webmanifest": "dd0d268c6f2565eddca6af1cb282053f3aebfeb2",
+    "/polyfills.95eb411e6f77033f.js": "6ab9a46acba831446b826150f69a047a6b776700",
+    "/runtime.7f2c59057910d707.js": "727aba65f85ab304d5140bcfd69392f04ec9f9e2",
+    "/scripts.2a6ef9e38ef9828c.js": "ab60f1dad9a98c251044cb559cb39ba4778a9621",
+    "/styles.dec188af2f830caf.css": "8dd2639407862081eaf0da25a95cbd3ebdf3ee52"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ],
+  "navigationRequestStrategy": "performance"
+}
